@@ -1,0 +1,34 @@
+{
+    "1": {
+        "name": "Radio 101",
+        "url": "http://live.radio101.hr:9531"
+    },
+    "2": {
+        "name": "Antena",
+        "url": "http://live.antenazagreb.hr:8000"
+    },
+    "3": {
+        "name": "Narodni",
+        "url": "http://live.narodni.hr:8059"
+    },
+    "4": {
+        "name": "Otvoreni",
+        "url": "http://proxima.shoutca.st:8357"
+    },
+    "5": {
+        "name": "Dublab",
+        "url": "http://dublab.out.airtime.pro:8000/dublab_a"
+    },
+    "6": {
+        "name": "Box UK Radio danceradiouk",
+        "url": "http://uk7.internet-radio.com:8226"
+    },
+    "7": {
+        "name": "PARTY VIBE MUSIC : ALL THE HITS ALL THE TIME",
+        "url": "http://uk6.internet-radio.com:8124"
+    },
+    "8": {
+        "name": "Current Hits FM",
+        "url": "http://us3.internet-radio.com:8317/live"
+    }
+}
